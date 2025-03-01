@@ -1,6 +1,6 @@
-# JobQuest: The Simplified Job Finder
+# JobSeeker: The Simplified Job Finder
 
-**JobQuest** is a job search platform built with **Next.js**, **React.js**, and **Node.js**. This project is designed to provide an intuitive and efficient user experience for job seekers. By simplifying the job search process and incorporating user feedback, JobQuest aims to help users find the best job offers easily and quickly.
+**JobSeeker** is a job search platform built with **Next.js**, **React.js**, and **Node.js**. This project is designed to provide an intuitive and efficient user experience for job seekers. By simplifying the job search process and incorporating user feedback, JobSeeker aims to help users find the best job offers easily and quickly.
 
 
 ---
@@ -40,7 +40,7 @@ To run this project locally, you need to have the following installed:
 
 2. Navigate into the project directory:
     ```bash
-    cd jobquest
+    cd JobSeeker
     ```
 
 3. Install dependencies:
